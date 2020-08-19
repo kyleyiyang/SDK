@@ -2,4 +2,4 @@
 
 Aug. 19, 2020
 
-Uploaded the version working with 2 LCoS'.
+Uploaded the version working with 2 LCoS'. Main file: Blink_SDK_example.cpp; 
